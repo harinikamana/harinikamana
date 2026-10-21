@@ -94,7 +94,6 @@ I'm **Srikanth Dwarapureddy**, a Full Stack Developer interested in building sca
     </td>
   </tr>
 </table>
----
 
 ### Languages
 

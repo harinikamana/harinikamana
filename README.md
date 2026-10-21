@@ -48,7 +48,7 @@ I'm **Srikanth Dwarapureddy**, a Full Stack Developer interested in building sca
 
 ## 🛠️ Technical Arsenal
 
-<div align="center">
+<div>
 
 <table>
 <tr>

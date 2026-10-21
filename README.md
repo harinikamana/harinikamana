@@ -51,38 +51,54 @@ I'm **Srikanth Dwarapureddy**, a Full Stack Developer interested in building sca
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,sql" alt="Java, JavaScript and SQL" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js" height="55" alt="Java and JavaScript" />
+</p>
 
 ### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" alt="React, Tailwind CSS and Bootstrap" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" height="55" alt="React, Tailwind CSS and Bootstrap" />
+</p>
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Node.js, Express.js and Django" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" height="55" alt="Node.js, Express.js and Django" />
+</p>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres" alt="MongoDB, MySQL, Firebase and PostgreSQL" />
-
-<img src="https://img.shields.io/badge/pgvector-Vector_Search-142B4A?style=for-the-badge&logo=postgresql&logoColor=D4AF37" alt="pgvector" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres" height="55" alt="MongoDB, MySQL, Firebase and PostgreSQL" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/pgvector-Vector_Search-142B4A?style=for-the-badge&logo=postgresql&logoColor=D4AF37" height="28" alt="pgvector vector search" />
+</p>
 
 ### 🤖 AI & Intelligent Applications
 
-<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-142B4A?style=for-the-badge&logoColor=D4AF37" alt="RAG" />
-<img src="https://img.shields.io/badge/AI_Agents-Application_Development-142B4A?style=for-the-badge&logoColor=D4AF37" alt="AI agents" />
-<img src="https://img.shields.io/badge/Google_Gemini-AI_Integration-142B4A?style=for-the-badge&logo=googlegemini&logoColor=D4AF37" alt="Google Gemini" />
-<img src="https://img.shields.io/badge/OpenAI-AI_Integration-142B4A?style=for-the-badge&logo=openai&logoColor=D4AF37" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Embeddings-Semantic_Search-142B4A?style=for-the-badge&logoColor=D4AF37" alt="Embeddings and semantic search" />
+<p>
+  <img src="https://img.shields.io/badge/RAG-142B4A?style=for-the-badge&labelColor=303030&color=142B4A" height="28" alt="Retrieval augmented generation" />
+  <img src="https://img.shields.io/badge/AI_Agents-142B4A?style=for-the-badge&labelColor=303030&color=142B4A" height="28" alt="AI agents" />
+  <img src="https://img.shields.io/badge/Gemini-D4AF37?style=for-the-badge&logo=googlegemini&logoColor=142B4A" height="28" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/OpenAI-142B4A?style=for-the-badge&logo=openai&logoColor=D4AF37" height="28" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Embeddings-142B4A?style=for-the-badge&color=142B4A" height="28" alt="Embeddings and semantic search" />
+</p>
 
-### 🧰 Tools & Technologies
+### 🛠️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code and Postman" />
-
-<img src="https://img.shields.io/badge/n8n-Workflow_Automation-142B4A?style=for-the-badge&logo=n8n&logoColor=D4AF37" alt="n8n" />
-<img src="https://img.shields.io/badge/Supabase-Backend_Platform-142B4A?style=for-the-badge&logo=supabase&logoColor=D4AF37" alt="Supabase" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="55" alt="Git, GitHub, VS Code and Postman" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-142B4A?style=for-the-badge&logo=n8n&logoColor=D4AF37" height="28" alt="n8n workflow automation" />
+  <img src="https://img.shields.io/badge/Supabase-142B4A?style=for-the-badge&logo=supabase&logoColor=D4AF37" height="28" alt="Supabase" />
+</p>
 
 </div>
+
+---
 
 ### Languages
 

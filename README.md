@@ -61,7 +61,7 @@ I'm **Srikanth Dwarapureddy**, a Full Stack Developer interested in building sca
 ![SQL](https://img.shields.io/badge/SQL-D4AF37?style=flat-square&logo=postgresql&logoColor=0B1220)
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 ### 🎨 Frontend
 
@@ -70,14 +70,14 @@ I'm **Srikanth Dwarapureddy**, a Full Stack Developer interested in building sca
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 ### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,django" height="48" alt="Node.js, Express, Django"/>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 ### 🗄️ Databases
 

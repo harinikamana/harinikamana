@@ -52,7 +52,7 @@ I'm **Srikanth Dwarapureddy**, a Full Stack Developer interested in building sca
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 ### 💻 Languages
 

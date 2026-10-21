@@ -45,56 +45,74 @@ I'm **Srikanth Dwarapureddy**, a Full Stack Developer interested in building sca
 - Built reusable, responsive UI components with React and Tailwind CSS.
 - Optimized API calls and database queries to improve application performance.
 
-## 🧰 Tech Stack
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
+<table>
+<tr>
+<td align="center" width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js" height="55" alt="Java and JavaScript" />
-</p>
+### 💻 Languages
 
-### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=java,js" height="48" alt="Java and JavaScript"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" height="55" alt="React, Tailwind CSS and Bootstrap" />
-</p>
+![SQL](https://img.shields.io/badge/SQL-D4AF37?style=flat-square&logo=postgresql&logoColor=0B1220)
 
-### ⚙️ Backend Development
+</td>
+<td align="center" width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" height="55" alt="Node.js, Express.js and Django" />
-</p>
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" height="48" alt="React, Tailwind CSS, Bootstrap"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" height="48" alt="Node.js, Express, Django"/>
+
+</td>
+<td align="center" width="50%">
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres" height="55" alt="MongoDB, MySQL, Firebase and PostgreSQL" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/pgvector-Vector_Search-142B4A?style=for-the-badge&logo=postgresql&logoColor=D4AF37" height="28" alt="pgvector vector search" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres" height="48" alt="MongoDB, MySQL, Firebase, PostgreSQL"/>
+
+![pgvector](https://img.shields.io/badge/pgvector-Vector_Search-D4AF37?style=flat-square&logoColor=0B1220)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
 
 ### 🤖 AI & Intelligent Applications
 
-<p>
-  <img src="https://img.shields.io/badge/RAG-142B4A?style=for-the-badge&labelColor=303030&color=142B4A" height="28" alt="Retrieval augmented generation" />
-  <img src="https://img.shields.io/badge/AI_Agents-142B4A?style=for-the-badge&labelColor=303030&color=142B4A" height="28" alt="AI agents" />
-  <img src="https://img.shields.io/badge/Gemini-D4AF37?style=for-the-badge&logo=googlegemini&logoColor=142B4A" height="28" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/OpenAI-142B4A?style=for-the-badge&logo=openai&logoColor=D4AF37" height="28" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Embeddings-142B4A?style=for-the-badge&color=142B4A" height="28" alt="Embeddings and semantic search" />
-</p>
+![RAG](https://img.shields.io/badge/RAG-142B4A?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-142B4A?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-D4AF37?style=for-the-badge&logo=googlegemini&logoColor=0B1220)
+![OpenAI](https://img.shields.io/badge/OpenAI-142B4A?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+![Embeddings](https://img.shields.io/badge/Embeddings-142B4A?style=for-the-badge)
 
-### 🛠️ Tools & Technologies
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="55" alt="Git, GitHub, VS Code and Postman" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-142B4A?style=for-the-badge&logo=n8n&logoColor=D4AF37" height="28" alt="n8n workflow automation" />
-  <img src="https://img.shields.io/badge/Supabase-142B4A?style=for-the-badge&logo=supabase&logoColor=D4AF37" height="28" alt="Supabase" />
-</p>
+### 🔧 Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="48" alt="Git, GitHub, VS Code, Postman"/>
+
+![n8n](https://img.shields.io/badge/n8n-Automation-D4AF37?style=flat-square&logo=n8n&logoColor=0B1220)
+![Supabase](https://img.shields.io/badge/Supabase-142B4A?style=flat-square&logo=supabase&logoColor=D4AF37)
+
+</td>
+</tr>
+</table>
 
 </div>
 

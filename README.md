@@ -45,77 +45,55 @@ I'm **Srikanth Dwarapureddy**, a Full Stack Developer interested in building sca
 - Built reusable, responsive UI components with React and Tailwind CSS.
 - Optimized API calls and database queries to improve application performance.
 
-
 ## 🛠️ Technical Arsenal
 
-<div>
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,js" height="48" alt="Java and JavaScript"/>
-
-![SQL](https://img.shields.io/badge/SQL-D4AF37?style=flat-square&logo=postgresql&logoColor=0B1220)
-
-</td>
-<td align="center" width="100%">
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" height="48" alt="React, Tailwind CSS, Bootstrap"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="100%">
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" height="48" alt="Node.js, Express, Django"/>
-
-</td>
-<td align="center" width="100%">
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres" height="48" alt="MongoDB, MySQL, Firebase, PostgreSQL"/>
-
-![pgvector](https://img.shields.io/badge/pgvector-Vector_Search-D4AF37?style=flat-square&logoColor=0B1220)
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-### 🤖 AI & Intelligent Applications
-
-![RAG](https://img.shields.io/badge/RAG-142B4A?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-142B4A?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-D4AF37?style=for-the-badge&logo=googlegemini&logoColor=0B1220)
-![OpenAI](https://img.shields.io/badge/OpenAI-142B4A?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![Embeddings](https://img.shields.io/badge/Embeddings-142B4A?style=for-the-badge)
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-### 🔧 Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="48" alt="Git, GitHub, VS Code, Postman"/>
-
-![n8n](https://img.shields.io/badge/n8n-Automation-D4AF37?style=flat-square&logo=n8n&logoColor=0B1220)
-![Supabase](https://img.shields.io/badge/Supabase-142B4A?style=flat-square&logo=supabase&logoColor=D4AF37)
-
-</td>
-</tr>
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=java,js" height="52" alt="Java and JavaScript" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/SQL-14213D?style=for-the-badge&logo=postgresql&logoColor=E0B84C" alt="SQL" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" height="52" alt="React, Tailwind CSS, Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django" height="52" alt="Node.js, Express, Django" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🗄️ Databases &amp; Search</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres" height="48" alt="MongoDB, MySQL, Firebase, PostgreSQL" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/pgvector-14213D?style=for-the-badge&logo=postgresql&logoColor=E0B84C" alt="pgvector" />
+      <img src="https://img.shields.io/badge/Vector_Search-14213D?style=for-the-badge&labelColor=E0B84C&color=14213D" alt="Vector Search" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🤖 AI &amp; Intelligent Applications</h3>
+      <img src="https://img.shields.io/badge/RAG-14213D?style=for-the-badge&labelColor=E0B84C" alt="RAG" />
+      <img src="https://img.shields.io/badge/AI_Agents-14213D?style=for-the-badge&labelColor=E0B84C" alt="AI Agents" />
+      <img src="https://img.shields.io/badge/Google_Gemini-14213D?style=for-the-badge&logo=googlegemini&logoColor=E0B84C" alt="Google Gemini" />
+      <img src="https://img.shields.io/badge/OpenAI-14213D?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Embeddings-14213D?style=for-the-badge&labelColor=E0B84C" alt="Embeddings" />
+      <img src="https://img.shields.io/badge/Semantic_Search-14213D?style=for-the-badge&labelColor=E0B84C" alt="Semantic Search" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🔧 Tools &amp; Workflow</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="52" alt="Git, GitHub, VS Code, Postman" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/n8n-Automation-14213D?style=for-the-badge&logo=n8n&logoColor=E0B84C" alt="n8n Automation" />
+      <img src="https://img.shields.io/badge/Supabase-14213D?style=for-the-badge&logo=supabase&logoColor=E0B84C" alt="Supabase" />
+    </td>
+  </tr>
 </table>
-
-</div>
-
 ---
 
 ### Languages

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:392B70,100:00D9FF&text=KAMANA%20HARINI&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CS%20ENGINEERING&descAlignY=59&descSize=15" width="100%" alt="Purple and cyan profile banner"/>
 
-# Hi, I'm Kamana Harini 👋
+# Hi, I'm Kamana Harini 
 
 ### Software Developer | Frontend Development | Problem Solving
 
